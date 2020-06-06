@@ -6,7 +6,7 @@ mainly in the array that is full of null because I tried to use different ways t
 works, but the local storage does not. This is a problem when you refresh the window because you may notice that the activitie that you deleted
 is still there but another activitie is not. This is how it works
 
-![Tweets](/gif/DTo-do-List-Personal_-Microsoft_-Edge-2020-06-06-12-53-48.gif)
+![List](/gif/To-do-List-Personal_-Microsoft_-Edge-2020-06-06-12-53-48.gif)
 
 
 ## Resources
