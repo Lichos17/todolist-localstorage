@@ -11,5 +11,5 @@ is still there but another activitie is not. This is how it works
 
 ## Resources
 
-The frontend is made by Angela Yu from the App Brewery. We used this frontend in his course
+The frontend is made by Angela Yu from the App Brewery. We used this frontend in her course
 [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
